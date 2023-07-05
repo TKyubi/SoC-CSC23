@@ -1,4 +1,4 @@
-# SoC-CSC23
+# SoC-CSCW23
 Documentation for "Sound of Care: Towards a Co-Operative AI Digital Pain Companion to Support People with Chronic Primary Pain"
 
 Please refer to [1] for the ethical stakeholder analysis materials and to [2] and [3] for the interview tables.
